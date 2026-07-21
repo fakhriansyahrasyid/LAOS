@@ -1,0 +1,45 @@
+laos/
+│
+├── README.md
+├── LICENSE
+├── CHANGELOG.md
+│
+├── docs/
+│   ├── architecture/
+│   ├── core/
+│   │   ├── identity/
+│   │   ├── memory/
+│   │   ├── security/
+│   │   └── approval-engine/
+│   │
+│   ├── finance/
+│   │   ├── BRD.md
+│   │   ├── FSD.md
+│   │   ├── TDD.md
+│   │   ├── PES.md
+│   │   ├── Workflow.md
+│   │   ├── Dashboard.md
+│   │   └── Testing.md
+│   │
+│   ├── sales/
+│   ├── purchasing/
+│   ├── inventory/
+│   ├── production/
+│   ├── crm/
+│   ├── hr/
+│   └── ceo-intelligence/
+│
+├── workflows/
+│   ├── finance/
+│   ├── sales/
+│   └── purchasing/
+│
+├── prompts/
+│
+├── api/
+│
+├── scripts/
+│
+├── infrastructure/
+│
+└── assets/
