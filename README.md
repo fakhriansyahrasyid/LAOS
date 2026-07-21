@@ -1,5 +1,4 @@
-# LAOS
-Litero AI Operating System
+
 # LAOS
 
 Litero AI Operating System
