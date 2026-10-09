@@ -1,6 +1,4 @@
-Ini adalah sesi terakhir **Finance V1**. Menurut saya, sesi ini tidak boleh hanya membahas *testing* dan *deployment*. Karena LAOS adalah AI Operating System, kita harus memastikan yang diuji bukan hanya aplikasi, tetapi juga **AI, workflow, integrasi, dan kualitas keputusan**.
 
-Saya mengusulkan dokumen ini menjadi:
 
 # VALIDATION, TESTING & DEPLOYMENT SPECIFICATION (VTDS)
 
