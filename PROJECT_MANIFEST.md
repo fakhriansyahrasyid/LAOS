@@ -13,7 +13,7 @@ Notion is Knowledge Base.
 
 n8n is Workflow Engine.
 
-OpenAI is Reasoning Engine.
+Gemini is Reasoning Engine.
 
 AI never bypasses Approval Engine.
 
